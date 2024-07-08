@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(33, 33, 33); 
+    overflow-x: hidden;
+    color: white;
+}
+
+.body{
+    height: 1002px;
+    width: 1341px;
+    background-color: rgb(47, 47, 47);
+    position: absolute;
+    left: 100px;
+    top: 46px;
+    border-radius: 23px;
+    font-size: xx-large;
+    font-style: oblique;
+    
+    
+}
+.p1{
+ position: relative;
+ left: 600px;
+ bottom: 300px;
+}
+.h11{
+position: relative;
+left: 100px;
+}
+.img1{
+height: auto;
+width: 300px;
+position: relative;
+left: 155px;
+border-radius: 23px;
+}
+.skill1{
+position: relative;
+right: 507px;
+}
+.skill2{
+position: relative;
+left: 258px;
+bottom: 207px;
+}
+.social-icons1{
+position: relative;
+top: 180px;
+right: 300px;
+}
+.social-icons2{
+position: relative;
+left: 85px;
+bottom: 38px;
+}
+.social-icons3{
+position: relative;
+left: 85px;
+bottom: 38px;
+}
